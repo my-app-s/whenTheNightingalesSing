@@ -1,4 +1,3 @@
-puts "Birds song"
 degrees, season = ARGV[0], ARGV[1]
 
 if degrees == nil and season == nil
